@@ -39,7 +39,7 @@ If you'd like to run the project on your own machine:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/maheshmnair/CodePad.git](https://github.com/maheshmnair/CodePad.git)
+    git clone https://github.com/maheshmnair/CodePad.git
     ```
 
 2.  **Navigate to the directory:**
